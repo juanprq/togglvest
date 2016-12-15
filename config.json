@@ -1,0 +1,11 @@
+{
+  "harvest_subdomain": "",
+  "harvest_username": "",
+  "harvest_project_id": "",
+  // Software Development task
+  "harvest_task_id": "",
+  // Get your Toggl Token here https://www.toggl.com/app/profile (at bottom of page)
+  "toggl_token": "",
+  // Toggl Project Id - Can be found in the url when a project is selected using the left menu
+  "toggl_project_id": ""
+}
